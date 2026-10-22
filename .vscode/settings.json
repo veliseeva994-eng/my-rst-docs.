@@ -1,0 +1,6 @@
+
+{
+    "esbonio.sphinx.confDir": "${workspaceFolder}",
+    "esbonio.sphinx.srcDir": "${workspaceFolder}",
+    "esbonio.sphinx.buildDir": "${workspaceFolder}/_build/html"
+}
